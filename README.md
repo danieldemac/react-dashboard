@@ -27,7 +27,7 @@ Este repositório contém um dashboard administrativo desenvolvido em React. A a
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/danieldemac/react-dtm.git
+   git clone https://github.com/danieldemac/react-dashboard
    ```
 
 2. Instale as dependências:
