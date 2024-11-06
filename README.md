@@ -5,8 +5,6 @@ A responsive admin dashboard built with React.
 🚧 **Em Construção** 🚧  
 Este projeto está em andamento e ainda não está finalizado. Fique atento para futuras atualizações!
 
-![Working](https://emojis.slackmojis.com/emojis/images/1643509243/41425/working.png?1643509243)
-
 ## Descrição
 
 Este repositório contém um dashboard administrativo desenvolvido em React. A aplicação é totalmente responsiva, projetada para fornecer uma interface de administração moderna e flexível.
